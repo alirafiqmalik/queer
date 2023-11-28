@@ -1,9 +1,9 @@
 [submodule "support"]
 	path = support
-	url = ../support.git
+	url = https://github.com/ccicconetti/support.git
 [submodule "yen"]
 	path = yen
-	url = ../yen.git
+	url = https://github.com/ccicconetti/yen.git
 [submodule "hungarian-algorithm-cpp"]
 	path = hungarian-algorithm-cpp
-	url = ../hungarian-algorithm-cpp.git
+	url = https://github.com/ccicconetti/hungarian-algorithm-cpp.git
